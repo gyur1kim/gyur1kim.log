@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "grapheme-splitter": "^1.0.4"
+    "grapheme-splitter": "^1.0.4",
+    "react": "^19.0.0"
   }
 }
